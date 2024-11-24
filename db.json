@@ -1,0 +1,190 @@
+{
+    "users": [
+      {
+        "id": "e7dc",
+        "email": "admin@gmail.com",
+        "password": "Admin@321",
+        "addresses": [],
+        "role": "admin"
+      },
+      {
+        "id": "76f8",
+        "email": "kazmiwrite@gmail.com",
+        "password": "Sufiya@321",
+        "addresses": [],
+        "role": "user"
+      }
+    ],
+    "employe": [
+      {
+        "id": "9093",
+        "name": "jonhhhe",
+        "email": "jon@gmail.com",
+        "role": "user",
+        "status": "active",
+        "permissions": [
+          "view"
+        ]
+      },
+      {
+        "id": "b7ab",
+        "name": "muneeb",
+        "email": "muneeba@gmail.com",
+        "role": "user",
+        "status": "inactive",
+        "permissions": [
+          "view"
+        ]
+      },
+      {
+        "id": "716e",
+        "name": "sufiya",
+        "email": "sufiya@gmail.com",
+        "role": "user",
+        "status": "active",
+        "permissions": [
+          "view"
+        ]
+      },
+      {
+        "id": "9aa3",
+        "name": "uvs",
+        "email": "uvss21@gmail.com",
+        "role": "user",
+        "status": "inactive",
+        "permissions": [
+          "view"
+        ]
+      },
+      {
+        "id": "20b9",
+        "name": "uvsss",
+        "email": "kazmiwrite@gmail.com",
+        "role": "user",
+        "status": "active",
+        "permissions": [
+          "view"
+        ]
+      },
+      {
+        "id": "5798",
+        "name": "Sayyed Arbaab",
+        "email": "kazmiwrite@gmail.com",
+        "role": "user",
+        "status": "active",
+        "permissions": [
+          "view"
+        ]
+      },
+      {
+        "id": "0a05",
+        "name": "yashal",
+        "email": "yashal@gmail.com",
+        "role": "user",
+        "status": "active",
+        "permissions": [
+          "view"
+        ]
+      },
+      {
+        "id": "2c56",
+        "name": "shiv",
+        "email": "shiv@gmail.com",
+        "role": "user",
+        "status": "inactive",
+        "permissions": [
+          "view"
+        ]
+      },
+      {
+        "id": "2e4c",
+        "name": "alam",
+        "email": "alam@gmail.com",
+        "role": "user",
+        "status": "active",
+        "permissions": [
+          "view"
+        ]
+      },
+      {
+        "id": "3a60",
+        "name": "safi",
+        "email": "safi@gmail.com",
+        "role": "user",
+        "status": "active",
+        "permissions": [
+          "view"
+        ]
+      },
+      {
+        "id": "dffd",
+        "name": "jathinn",
+        "email": "jathin@gmail.com",
+        "role": "user",
+        "status": "active",
+        "permissions": [
+          "view"
+        ]
+      },
+      {
+        "id": "8736",
+        "name": "sufiyaaa",
+        "email": "sufiya@gmail.com",
+        "role": "user",
+        "status": "active",
+        "permissions": [
+          "view"
+        ]
+      },
+      {
+        "id": "9592",
+        "name": "abhinavvv",
+        "email": "abhinav@gmail.com",
+        "role": "user",
+        "status": "active",
+        "permissions": [
+          "view"
+        ]
+      },
+      {
+        "id": "7f7d",
+        "name": "sahil khan",
+        "email": "sahil@gmail.com",
+        "role": "user",
+        "status": "active",
+        "permissions": [
+          "view"
+        ]
+      },
+      {
+        "id": "656f",
+        "name": "anuvvv",
+        "email": "anuv@gmail.com",
+        "role": "user",
+        "status": "active",
+        "permissions": [
+          "view"
+        ]
+      },
+      {
+        "id": "9b84",
+        "name": "nazi",
+        "email": "nazi@gmail.com",
+        "role": "user",
+        "status": "active",
+        "permissions": [
+          "view"
+        ]
+      },
+      {
+        "id": "ee64",
+        "name": "rohan",
+        "email": "rohan@gmail.com",
+        "role": "user",
+        "status": "active",
+        "permissions": [
+          "view"
+        ]
+      }
+    ]
+  }
